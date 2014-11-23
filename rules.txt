@@ -1,0 +1,10 @@
+up arrow->move upward
+down arrow->move downward
+right arrow->move right
+left arrow->move left
+
+Play new games after game over
+
+Get the highest score
+
+and play at different levels

@@ -1,0 +1,96 @@
+﻿body {
+}
+.main-wrapper{
+margin:0 auto;
+width:600px;
+height:600px;
+}
+.legend{
+	width:200px;
+	float:left;
+	font-size:36px;
+	background:yellow;
+	border:1px solid;
+}
+#mainroad {
+    width: 320px;
+    height: 595px;
+    background-image:url(../images/mainroad.png);
+	background-repeat:repeat-y;
+    float:right;
+    position: relative;
+}
+#Scorecard{
+	width:200px;
+}
+
+.opponent2
+{
+    position: absolute;
+    width: 100px;
+    height:108px;
+    background-image: url(../images/2.png);
+	background-repeat:no-repeat;
+}
+.opponent3 
+{
+    position: absolute;
+    width: 100px;
+    height:108px;
+    background-image: url(../images/3.png);
+
+	background-repeat:no-repeat;
+}
+.opponent4 
+{
+    position: absolute;
+    width: 100px;
+    height:108px;
+    background-image: url(../images/4.png);
+	background-repeat:no-repeat;  
+}
+
+.player 
+{
+    position: absolute;
+    width: 100px;
+    height:108px;
+    background-image: url(../images/1.png);
+	background-repeat:no-repeat;  
+}
+
+.score 
+{
+    position: absolute;
+    
+    height:108px;
+    width:320px;
+	color:yellow;
+	top:470px;
+	text-align:center;
+	margin:0 auto;
+	font-size:60px;
+	font-style:italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+
+
+}
+
+.ng 
+{
+    position: absolute;
+    
+    height:60px;
+    width:280px;
+	color:yellow;
+	top:10px;
+	text-align:center;
+	margin-left:20px;
+	font-size:60px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+
+
+}
+.ng:hover{
+	cursor:pointer;
+}

@@ -80,7 +80,7 @@ height:600px;
 {
     position: absolute;
     
-    height:60px;
+    height:80px;
     width:280px;
 	color:yellow;
 	top:10px;
@@ -93,4 +93,7 @@ height:600px;
 }
 .ng:hover{
 	cursor:pointer;
+	background:yellow;
+	color:#9B7676;
+
 }
